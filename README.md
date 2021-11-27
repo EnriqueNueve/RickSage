@@ -2,8 +2,9 @@
 A comprehensive collection of projects during my time with SAGE
 
 ## General resources for ML on the Edge
-TF Toolbox: https://github.com/EnriqueNueve/TF_Toolbox
+* TF Toolbox: https://github.com/EnriqueNueve/TF_Toolbox
 Description: a personal code repo of a variety of models implemented during research.
+* Additional models made: https://github.com/waggle-sensor/machinelearning
 
 ## Active Learning 
 * Addressing-the-Constraints-of-Active-Learning-on-the-Edge: https://github.com/EnriqueNueve/Addressing-the-Constraints-of-Active-Learning-on-the-Edge

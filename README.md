@@ -6,7 +6,7 @@ TF Toolbox: https://github.com/EnriqueNueve/TF_Toolbox
 Description: a personal code repo of a variety of models implemented during research.
 
 ## Active Learning 
-
+* Addressing-the-Constraints-of-Active-Learning-on-the-Edge: https://github.com/EnriqueNueve/Addressing-the-Constraints-of-Active-Learning-on-the-Edge
 
 ## Audio on the Edge 
 * General audio plugin: https://github.com/EnriqueNueve/yamnet_plugin
@@ -17,7 +17,7 @@ Description: a personal code repo of a variety of models implemented during rese
 Highlights:
 * Tensor Hub (pre-made models in Tensorflow for a variety of tasks): https://www.tensorflow.org/hub 
 * Torch2RT (convert PyTorch models to tf-lite modelss): https://github.com/NVIDIA-AI-IOT/torch2trt
-*  bunch of NLP Layers: https://github.com/tensorflow/models/tree/master/official/nlp/modeling/layers
+* bunch of NLP Layers: https://github.com/tensorflow/models/tree/master/official/nlp/modeling/layers
 * Outlier toolbox (lots of pre-made tools for outlier detection, concept drift, and more): https://github.com/SeldonIO/alibi-detect
 
 

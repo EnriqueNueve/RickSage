@@ -1,0 +1,17 @@
+gpu: 0
+epochs: 200
+batch_size: 1
+model_type: 'RHA'
+network_n_sources: 4
+network_num_filters_in_encoder: 8
+network_num_head_per_att: 8
+network_dim_key_att: 1024
+network_num_tran_blocks: 2
+network_num_chop_blocks: 2
+network_chunk_size: 512
+data_set: '/datasets/fuss'
+train_pickup: False
+dm: True
+max_input_length_in_seconds: 10
+samplerate_hz: 8000
+lr: .001

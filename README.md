@@ -13,6 +13,7 @@ Description: a personal code repo of a variety of models implemented during rese
 * General audio plugin: https://github.com/EnriqueNueve/yamnet_plugin
 * Bird call project: https://github.com/EnriqueNueve/BirdCall_Project2021
 * Urban audio plugin: https://github.com/EnriqueNueve/UrbanAudioPlugin
+* Audio seperator (open project): https://github.com/EnriqueNueve/RickSage/tree/main/AudioSeparator
 
 ## Code Resources
 Highlights:
